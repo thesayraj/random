@@ -1,0 +1,46 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code Regular, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 26,
+  "editor.fontWeight": "normal",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.tabSize": 2,
+  "prettier.requireConfig": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "html.format.enable": false,
+  "htmlhint.enable": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "workbench.colorTheme": "One Monokai",
+  "rainbowTags.allowEverywhere": true,
+  "emmet.triggerExpansionOnTab": true,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.preferredDarkColorTheme": "Default High Contrast Light",
+  "terminal.integrated.fontSize": 19,
+  "terminal.integrated.fontFamily": "courier",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "window.titleBarStyle": "custom",
+  "workbench.statusBar.visible": false,
+  "window.zoomLevel": 1,
+  "javascript.format.enable": false,
+  "json.format.enable": false,
+  "scss.format.enable": false,
+  "less.format.enable": false,
+  "css.format.enable": false,
+  "typescript.format.enable": false
+}
